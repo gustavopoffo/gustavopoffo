@@ -53,15 +53,6 @@ Sou estudante de Ciência da Computação no ICMC/USP, apaixonado por tecnologia
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavopoffo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopoffo&layout=compact&langs_count=7&theme=react"/>
-</p>
-
----
-
 ## 📫 Como me encontrar
 
 <p>
