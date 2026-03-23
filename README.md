@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá! Eu sou o Gustavo Poffo</h1>
-  <h3>Desenvolvedor Full-Stack | IA Conversacional & Automação</h3>
+  <h3>Full-Stack Developer | Construindo Soluções Reais com IA & Web</h3>
   <p>Estudante de Ciência da Computação na <b>USP/ICMC</b> 🎓</p>
 </div>
 
