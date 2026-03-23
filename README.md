@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Olá! Eu sou o Gustavo Poffo</h1>
-  <h3>Full-Stack Developer | Construindo Soluções Reais com IA & Web</h3>
+  <h3>Desenvolvedor Full-Stack | IA Conversacional & Automação</h3>
   <p>Estudante de Ciência da Computação na <b>USP/ICMC</b> 🎓</p>
 </div>
 
 ---
 
-## Sobre mim
-Sou um desenvolvedor apaixonado por transformar problemas complexos em produtos escaláveis. Atualmente, foco na intersecção entre o desenvolvimento **Full-Stack (React/Next.js)** e a **Inteligência Artificial (RAG/Agentes)**. No meu portfólio, você encontrará soluções que já estão em produção, focadas em resiliência, performance e experiência do usuário.
+## 🚀 Sobre mim
+Sou um desenvolvedor focado em construir soluções que unem **Web Performance** e **Inteligência Artificial**. Atualmente, dedico meu tempo ao desenvolvimento de sistemas RAG e e-commerces escaláveis, sempre priorizando código limpo e arquitetura resiliente.
 
 ---
 
@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por transformar problemas complexos em produtos 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
 ### **Front-end**
@@ -34,48 +34,49 @@ Sou um desenvolvedor apaixonado por transformar problemas complexos em produtos 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Projetos em Destaque (Produtos em Produção)
+## 🌟 Projetos em Destaque
 
 ### 🛒 [The-Mome E-commerce](https://themome.vercel.app/)
-E-commerce de alta performance integrado à **Shopify Storefront API**.
-* **Diferenciais Técnicos:** Rate limiting diferenciado por endpoint, sistema de retry com *exponential backoff* e cache client-side com TTL de 2 min.
-* **Stack:** Next.js (App Router), TypeScript, Zustand, Tailwind CSS, Zod.
+E-commerce completo integrado à **Shopify Storefront API**.
+* **Engenharia:** Rate limiting diferenciado por endpoint (200/30 req/min), exponential backoff para resiliência e cache client-side (TTL 2 min).
+* **Stack:** Next.js, TypeScript, Zustand, Tailwind CSS, Zod.
 
 ### 🤖 [RAG Chatbot - EUTBEM](https://github.com/gustavopoffo/RAG_vectorstore)
-Sistema de IA conversacional para automação de vendas via WhatsApp Business API.
-* **Diferenciais Técnicos:** Pipeline RAG com ~220 chunks indexados em **Supabase (pgvector)**, ingestão via Docling/Web Scraping (~54k tokens) e orquestração via **n8n**.
+Automação de vendas via WhatsApp Business API com pipeline de RAG.
+* **Engenharia:** Indexação de ~220 chunks em **Supabase (pgvector)**, ingestão de dados via Docling e orquestração de fluxo no **n8n**.
 * **Stack:** Python, LangChain, PostgreSQL, WhatsApp API, n8n.
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Minha Stack em Números
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavopoffo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopoffo&layout=compact&theme=dark" alt="Top Langs" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopoffo&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Langs" height="180px" />
 </div>
 
----
-
-## 🧠 Certificações
-
-* ☁️ **Google Cloud Skill Badge** — Implement Load Balancing on Compute Engine.
-* 🛠️ **Google Cloud Skill Badge** — Set Up an App Dev Environment.
-* 🐘 **Curso de PostgreSQL (DATA - ICMC/USP)** — SQL e Modelagem Relacional.
+> **Nota:** Ocultando HTML/CSS para dar foco às linguagens de lógica e backend onde concentro minha engenharia.
 
 ---
 
-## 📫 Vamos nos conectar?
+## 🧠 Certificações & Formação
+
+* 🎓 **Bacharelado em Ciência da Computação** — USP/ICMC.
+* ☁️ **Google Cloud Skill Badge** — Load Balancing & App Dev Environment.
+* 🐘 **Curso de PostgreSQL (DATA - ICMC/USP)** — Modelagem e Manipulação de Dados.
+
+---
+
+## 📫 Vamos conversar?
 
 <p align="left">
   <a href="mailto:gustavopoffo022@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/gustavo-poffo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h3 align="center">✨ Construindo o futuro com código, café e IA ✨</h3>
+<h3 align="center">✨ Transformando criatividade em sistemas resilientes ✨</h3>
