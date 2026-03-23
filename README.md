@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 Sou um desenvolvedor focado em construir soluções que unem **Web Performance** e **Inteligência Artificial**. Atualmente, dedico meu tempo ao desenvolvimento de sistemas RAG e e-commerces escaláveis, sempre priorizando código limpo e arquitetura resiliente.
 
 ---
