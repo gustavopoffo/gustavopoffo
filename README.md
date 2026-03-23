@@ -54,17 +54,6 @@ Automação de vendas via WhatsApp Business API com pipeline de RAG.
 
 ---
 
-## 📊 Minha Stack em Números
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopoffo&layout=compact&theme=dark&langs_count=8&hide=html,css" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopoffo&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Langs" height="180px" />
-</div>
-
-> **Nota:** Ocultando HTML/CSS para dar foco às linguagens de lógica e backend onde concentro minha engenharia.
-
----
-
 ## 🧠 Certificações & Formação
 
 * 🎓 **Bacharelado em Ciência da Computação** — USP/ICMC.
